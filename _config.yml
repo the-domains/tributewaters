@@ -1,7 +1,7 @@
 name: TributeWaters
 favicon: null
-layout_spectrum: 0.012339164037257433
-typography_spectrum: 0.38699120515957475
+layout_spectrum: 0.2272
+typography_spectrum: 1
 cta:
   domain: null
   bucket: null
